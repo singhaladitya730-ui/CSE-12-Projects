@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>Web page for college admission form </title>
+</head>
+<body>
+<h1>college admission form </h1>
+<form>
+<label for = "name">full name :<label>
+<input type="text" name="fname" id="frame"required>
+<label for="email">email address:</label>
+<input type="text" name="email" id="frame"required>
+<label for="dob"> date of birth:</label>
+<input type="date" name="dob" id="dob name ">
+
+<label for="gender">gender:</label>
+<select name="genderid "gender" required>
+<option value="---Select gender---"></option>
+<option value="Male"></option>
+<option value="Female"></option>
+
+<label for="course applied for">Course Applied: </label>
+<select name="course" id="course name "></select>
+<option value="Btech + Mtech"></option>
+<option value="Btech"></option>
+<option value="MBA"></option>
+
+<label for="address">address:</label>
+<textarea name="address" id="address"></textarea>
+
+<button> type = "submit"> Submit Application </button>
+
+</form>
+</body>
+</html>
