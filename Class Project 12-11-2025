@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Class Projects </title>
+</head>
+<body>
+    <h1>INTRODUCTION</h1>
+    <h3>Name - Aditya Singhal</h3>
+    <h3>Class - CSE-12</h3> 
+    <h3>College - ABES ENGINERING COLLEGE</h3>
+    <h3>Admission No. is 2025B01011234</h3>
+
+    <hr>
+
+<h1>My Hobbies </h1>
+<ul>
+    <Li>Cycling </Li>
+   <li> Playing Badminton </li>
+    <li>Reading about science</li> 
+</ul>
+
+<hr>
+
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*A2WT1nRe2TYNYN_TyCiung.png" alt=""width="300px" height = "200px">
+
+<hr>
+
+<a href ="https://www.google.com/">google</a><br>
+<a href ="https://www.youtube.com/">youtube</a><br>
+<a href ="https://abes.ac.in/">ABESEC</a>
+
+<hr>
+
+  <table border ="1">
+    <tr>
+      <th>Web Development </th>
+      <th>Marks </th>
+    </tr>
+    <tr>
+      <td>Mathematics</td>
+      <td>100</td>
+    </tr>
+    <tr>
+      <td>Applied Physics </td>
+      <td>98</td>
+    </tr>
+    <tr>
+      <td>English</td>
+      <td>85</td>
+    </tr>
+  </table>
+
+</body>
+</html>
