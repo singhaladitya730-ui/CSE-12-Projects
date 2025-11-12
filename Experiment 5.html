@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Student Registration Form</title>
+</head>
+<body>
+<form>
+    <h1 align="center">Student Registration Form</h1>
+    <hr>
+    <label>Full Name: </label>
+    <input type="text" name="username" size="30" placeholder="Enter your full name" required><br><br>
+
+    <label>Email:</label>
+    <input type="email" name="email" method="post" size="30" placeholder="Enter your email address" required><br><br>
+
+    <label>Password:</label>
+    <input type="password" name="password" size="30" placeholder="Enter password" required><br><br>
+
+    <label>Gender:</label>
+    <input type="radio" id="male" name="gender" value="male">
+    <label for="female">Male</label>
+    <input type="radio" id="female" name="gender" value="female">
+    <label for="other">Female</label>
+    <input type="radio" id="other" name="gender" value="other">
+    <label for="other">Other</label><br><br>
+
+    <label>Course:</label>
+    <select>
+        <option value="">--Select Course--</option>
+        <option value="Btech">BTech</option>
+        <option value="Mtech">Mtech</option>
+        <option value="BCA">BCA</option>
+        <option value="MCA">MCA</option>
+    </select><br><br>
+
+    <label>Contact No: </label>
+    <input type="number" name="phno" size="30" placeholder="Enter phone number"><br><br>
+
+    <label>Address:</label><br>
+    <textarea name="Address" rows="4" cols="50" placeholder="Enter your address"></textarea><br><br>
+    <button value="Register">Register</button>
+    <button value="Clear">Clear</button>
+    <hr>
+    <center>
+        <p>&copy 2025 Student Registration Portal</p>
+    </center>
+</form>
+</body>
+</html>
