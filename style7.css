@@ -1,0 +1,44 @@
+body {
+    margin-top: 0;
+}
+header { 
+  display: block; 
+  background: lightgray; 
+  padding: 10px; 
+  text-align: center; 
+} 
+  
+.red-text { 
+  display: inline; 
+  color: red; 
+} 
+  
+.upper ul { 
+  list-style: none; 
+  padding: 0; 
+}
+
+.upper li { 
+  display: inline-block; 
+  margin-right: 10px; 
+}
+
+.upper a { 
+  text-decoration: none; 
+  padding: 5px; 
+  background: lightblue; 
+} 
+  
+.lower ul { 
+  list-style: none; 
+  padding: 0; 
+} 
+.lower li { 
+  float: left; 
+  margin-right: 10px; 
+} 
+.lower a { 
+  text-decoration: none; 
+  padding: 5px; 
+  background: lightgreen; 
+} 
