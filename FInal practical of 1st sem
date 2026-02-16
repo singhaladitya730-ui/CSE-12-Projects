@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1><u>Course Curriculum</u></h1>
+    <p>It has various steps to it :-</p>
+    <h2>This has hirarchical system such as :</h2>
+    <h3>At first , Study takes place </h3>
+<p>Then</p>
+<h4>Assessment takes place </h4>
+<p>Then</p>
+<h5>Test take place</h5>
+<p>Then </p>
+<h6>Report Card come.</h6>
+
+<p><b>This text is bold .</b></p>
+<p><em>This text is italic .</em></p>
+</body>
+</html>
